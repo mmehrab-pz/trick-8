@@ -6,7 +6,7 @@
 
 - [Demo Project](https://mmehrab-pz.github.io/trick-8/)
 - Developed by mehrab poorzakaria
-- Created - 2023 23 June
+- Created - 2023 18 June
 - 🤖 Technologies Used - Html , css , Bootstrap , scss , JS
 - How to reach me : with my
 [instagram](https://www.instagram.com/mehrab.poorzakaria_web/) and
